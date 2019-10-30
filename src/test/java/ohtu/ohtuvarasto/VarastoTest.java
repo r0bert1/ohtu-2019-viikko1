@@ -118,5 +118,4 @@ public class VarastoTest {
                 + ", vielä tilaa " + varasto.paljonkoMahtuu(),
                 varasto.toString());
     }
-
 }
