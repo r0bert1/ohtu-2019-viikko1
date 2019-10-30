@@ -41,7 +41,7 @@ public class VarastoTest {
     
     @Test 
     public void konstruktoriAsettaaOikeanAlkuSaldon() {
-        varasto = new Varasto(10, 6);
+        varasto = new Varasto(10, 8);
         assertEquals(8, varasto.getSaldo(), vertailuTarkkuus);
     }
     
